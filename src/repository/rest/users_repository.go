@@ -6,7 +6,7 @@ import (
 
 	"github.com/golang-restclient/rest"
 	"github.com/mendezdev/bookstore_oauth-api/src/doamin/users"
-	"github.com/mendezdev/bookstore_users-api/utils/errors"
+	"github.com/mendezdev/bookstore_oauth-api/src/utils/errors"
 )
 
 var (
